@@ -164,9 +164,7 @@ export default {
       <h2
         class="mt-6 text-3xl font-medium text-center text-slate-900 dark:text-woot-50"
       >
-        {{
-          useInstallationName($t('LOGIN.TITLE'), globalConfig.installationName)
-        }}
+        MAMA MINHA ROLA
       </h2>
       <p
         v-if="showSignupLink"
